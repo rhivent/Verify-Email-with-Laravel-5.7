@@ -13,3 +13,9 @@ MAIL_ENCRYPTION=tls<br/>
 Saya menggunakan mailtrap.io<br/>
 
 Untuk database bisa dibuat sendiri sudah di sediakan di dalam filezip
+
+email terverifikasi : qweko@mail.com<br/>
+password : qweqwe<br/>
+
+email belum terverifikasi : qweqwe@gmail.com
+password : qweqwe<br/>
